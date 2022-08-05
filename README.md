@@ -5,9 +5,9 @@ This repository contains an implementation of PPO algorithm with sampling from p
 
 The performance of single vs multi-thread sampling:
 
-![cpu_sampling](https://github.com/nslyubaykin/parallel_ppo/tree/master/images/cpu_comparison.png)
+![cpu_sampling](https://github.com/nslyubaykin/parallel_ppo/blob/master/images/cpu_comparison.png)
 
-![cuda_sampling](https://github.com/nslyubaykin/parallel_ppo/tree/master/images/cuda_comparison.png)
+![cuda_sampling](https://github.com/nslyubaykin/parallel_ppo/blob/master/images/cuda_comparison.png)
 
 Parallel Sampling Takeaways:
 
@@ -17,6 +17,6 @@ Parallel Sampling Takeaways:
 
 PPO Humanoid Learning Curve:
 
-![humanoid_learning_curve](https://github.com/nslyubaykin/parallel_ppo/tree/master/images/humanoid_learning_curve.png)
+![humanoid_learning_curve](https://github.com/nslyubaykin/parallel_ppo/blob/master/images/humanoid_learning_curve.png)
 
 Each x-axis step corresponds to 30k learning transitions batch.
