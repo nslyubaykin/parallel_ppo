@@ -20,3 +20,7 @@ PPO Humanoid Learning Curve:
 ![humanoid_learning_curve](https://github.com/nslyubaykin/parallel_ppo/blob/master/images/humanoid_learning_curve.png)
 
 Each x-axis step corresponds to 30k learning transitions batch.
+
+# Resulting Policy
+
+https://user-images.githubusercontent.com/67604207/184105740-eca1389e-2bbd-4014-a0d5-1c242f2423aa.mp4
