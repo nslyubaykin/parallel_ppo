@@ -1,7 +1,7 @@
 # Parallel Sampling with [ReLAx](https://github.com/nslyubaykin/relax)
 Speeding Up PPO with Parallel Sampling
 
-This repository contains an implementation of PPO algorithm with sampling from parallel environments with ReLAx package.
+This repository contains an [implementation](https://github.com/nslyubaykin/parallel_ppo/blob/master/parallel_ppo.ipynb) of PPO algorithm with sampling from parallel environments with ReLAx package.
 
 The performance of single vs multi-thread sampling:
 
